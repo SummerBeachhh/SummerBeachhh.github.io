@@ -43,9 +43,9 @@
         "color": "rgb(42, 147, 213)"
       },
       {
-        "name": "X",
-        "icon": "icon-x",
-        "url": "",
+        "name": "Steam",
+        "icon": "icon-steam",
+        "url": "https://steamcommunity.com/id/summerbeachhh/",
         "color": "rgb(106,90,205)"
       }
     ],
@@ -107,7 +107,7 @@
     "perPage": 10
   },
   "footer": {
-    "startTime": "2024-07-29T00:00:00Z"
+    "startTime": "2024-10-30T00:00:00Z"
   },
   "docSearch": {
     "appId": "",
@@ -118,7 +118,7 @@
     "serverURL": "https://waline-1-t8619760.deta.app/"
   },
   "sponsor": {
-    "wechat": "https://s2.loli.net/2024/08/03/6lXu4rHghkCmofV.jpg"
+    "wechat": "https://s2.loli.net/2024/08/03/.jpg"
   },
   "analytics": {
     "enable": false,

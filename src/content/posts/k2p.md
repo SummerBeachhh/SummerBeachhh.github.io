@@ -1,9 +1,8 @@
 ---
 title: 【转载】斐讯K2P路由器刷老毛子Padavan固件各版本区别
-date: 2024-11-9
+date: 2024-11-09
 category: 网络
 tags: [路由器]
-sticky: 1
 ---
 
 # 【转载】斐讯K2P路由器刷老毛子Padavan固件各版本区别（备忘专用）

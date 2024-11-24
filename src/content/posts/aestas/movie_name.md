@@ -2,6 +2,7 @@
 title: 影迷基本功：认识电影文件
 date: 2024-11-24
 summary: 本文主要介绍电影文件名称的内涵，帮助大家在网络上纷杂的电影资源中找到最适合我们吃的那个“细糠”。
+source: https://mp.weixin.qq.com/s/YpkpQjCT2Vx_RmcMbKmXiw
 category: 电影
 tags: [电影文件名称, 电影, 4K]
 ---

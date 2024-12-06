@@ -117,7 +117,7 @@ pnpm preview
   },
   // waline 评论系统，前往 https://waline.js.org/ 查看
   "waline": {
-    "serverURL": "https://waline.lxchapu.com"
+    "serverURL": "https://waline-leee5jvty-summerbeachhhs-projects.vercel.app/"
   },
   // 赞助
   "sponsor": {

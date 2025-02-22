@@ -1,9 +1,9 @@
 ---
 title: 购买域名并使用Cloudflare&DDNS-GO开启DDNS
-date: 2025-2-22
+date: 2025-02-22
 category: 网络
-cover:https://s2.loli.net/2025/02/22/E39fJANOGgbVc5T.jpg
-tags: [网络]
+tags: [网络, DDNS, Cloudflare]
+cover: https://s2.loli.net/2025/02/22/E39fJANOGgbVc5T.jpg
 ---
 
 TP-LINK的免费DDNS要在6/30停服...只能去买个六位数xyz域名当做DDNS的药引子

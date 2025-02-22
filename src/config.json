@@ -2,7 +2,7 @@
   "site": {
     "url": "https://SummerBeachhh.github.io",
     "title": "Aestas的博客",
-    "description": "这是一个有理想的人走过的漫长道路",
+    "description": "描述",
     "keywords": "Aestas,blog,ctf,indra,ham,博客",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
@@ -16,7 +16,7 @@
   "hero": {
     "name": "Aestas",
     "bio": "这里是测试语句！",
-    "description": "欢迎一同学习",
+    "description": "描述",
     "socials": [
       {
         "name": "Github",

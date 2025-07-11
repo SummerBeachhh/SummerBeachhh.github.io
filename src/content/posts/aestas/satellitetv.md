@@ -1,5 +1,4 @@
-\---
-
+---
 title: 卫星电视Ku高频头资料
 
 date: 2025-07-11
@@ -7,8 +6,7 @@ date: 2025-07-11
 category: 卫星
 
 tags: [卫星电视, 无线电]
-
-\---
+---
 
 ![68708dceeba7df000000016b](https://s2.loli.net/2025/07/11/1aCJK9GS3YxzEqP.png)
 
